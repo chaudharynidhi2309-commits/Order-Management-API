@@ -49,4 +49,4 @@ Database: Run your SQL scripts in pgAdmin to create the orders table and the 6 f
 
 Start Server: python app.py
 
-Interactive Docs: Open http://127.0.0.1:5000/apidocs to test the API.
+Interactive Docs: Open  to test the API.
